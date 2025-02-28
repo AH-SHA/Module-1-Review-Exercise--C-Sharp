@@ -1,0 +1,45 @@
+C:\Users\compm\repos\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.exe
+C:\Users\compm\repos\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.deps.json
+C:\Users\compm\repos\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.runtimeconfig.json
+C:\Users\compm\repos\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.pdb
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.AssemblyInfoInputs.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.AssemblyInfo.cs
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.csproj.CoreCompileInputs.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.sourcelink.json
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\refint\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.pdb
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.genruntimeconfig.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C#\obj\Debug\net8.0\ref\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.exe
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.deps.json
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.runtimeconfig.json
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\bin\Debug\net8.0\Module 1 Review Exercise - C#.pdb
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.AssemblyInfoInputs.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.AssemblyInfo.cs
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.csproj.CoreCompileInputs.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.sourcelink.json
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\refint\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.pdb
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\Module 1 Review Exercise - C#.genruntimeconfig.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C#\Module 1 Review Exercise - C#\obj\Debug\net8.0\ref\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\bin\Debug\net8.0\Module 1 Review Exercise - C#.exe
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\bin\Debug\net8.0\Module 1 Review Exercise - C#.deps.json
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\bin\Debug\net8.0\Module 1 Review Exercise - C#.runtimeconfig.json
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\bin\Debug\net8.0\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\bin\Debug\net8.0\Module 1 Review Exercise - C#.pdb
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.AssemblyInfoInputs.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.AssemblyInfo.cs
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.csproj.CoreCompileInputs.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.sourcelink.json
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\refint\Module 1 Review Exercise - C#.dll
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.pdb
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\Module 1 Review Exercise - C#.genruntimeconfig.cache
+C:\Users\compm\repos\Module 1 Review Exercise - C-Sharp\obj\Debug\net8.0\ref\Module 1 Review Exercise - C#.dll
